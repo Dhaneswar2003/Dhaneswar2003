@@ -7,11 +7,6 @@ Passionate in  Data Analyst
 - 🤔 I’m looking for work with real time challenges
 - 🔭 I'm knowledge in python programming
 - 🔭 I'm knowledge in data visualization and analysis tools like Excel and tableau
-- 📫 How to reach me :
-  
-🔭 Linkedin id:(www.linkedin.com/in/dhaneswar003)
-
-🔭 Gmail:(dhaneswarramesh@gmail.com)
 - ⚡ Fun fact:  Love to play  sudoku
 ### About me
 Hello! My name is Dhaneswar, and I am passionate about becoming a Data Analyst.
@@ -26,4 +21,10 @@ in the field of data analysis.
 
 
 ![LeetCode Stats](https://leetcode.panchajanya.dev/dhaneswarramesh?theme=dark&font=Hind%20Madurai)
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+- 📫 How to reach me :
+  
+🔭 Linkedin id:(www.linkedin.com/in/dhaneswar003)
+
+🔭 Gmail:(dhaneswarramesh@gmail.com)
+
