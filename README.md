@@ -7,6 +7,7 @@ Passionate in  data analysis
 - 🤔 I’m looking for work with real time challenges
 - 📫 How to reach me : 
 🔭 Linkedin id:(www.linkedin.com/in/dhaneswar003)
+
 🔭 Gmail:(dhaneswarramesh@gmail.com)
 - ⚡ Fun fact:  Love to play  sudoku
 ### About me
