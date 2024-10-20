@@ -6,8 +6,8 @@ Passionate in  data analysis
 - 👯 I’m looking to collaborate on ML/AI
 - 🤔 I’m looking for work with real time challenges
 - 📫 How to reach me : 
-                🔭 Linkedin id:(www.linkedin.com/in/dhaneswar003)
-                🔭 Gmail:(dhaneswarramesh@gmail.com)
+🔭 Linkedin id:(www.linkedin.com/in/dhaneswar003)
+🔭 Gmail:(dhaneswarramesh@gmail.com)
 - ⚡ Fun fact:  Love to play  sudoku
 ### About me
 Hello! My name is Dhaneswar, and I am passionate about becoming a Data Analyst.
