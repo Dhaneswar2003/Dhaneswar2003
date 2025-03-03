@@ -20,9 +20,9 @@ harnessing data to make informed, strategic decisions and contribute meaningfull
 in the field of data analysis.
 
 
-![LeetCode Stats](https://leetcode.panchajanya.dev/dhaneswarramesh?theme=dark&font=Hind%20Madurai)
 
-- 📫 How to reach me :
+
+-   📫 How to reach me :
   
 🔭 Linkedin id:(www.linkedin.com/in/dhaneswar003)
 
